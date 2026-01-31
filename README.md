@@ -1,1 +1,1 @@
-# inputs_of_practicals
+basic of college practicals
